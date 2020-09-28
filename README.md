@@ -1,1 +1,3 @@
-# ml_knn_housing_lab
+# Predicting house prices using nearest neighbors
+
+Machine learning lab.
